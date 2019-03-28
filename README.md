@@ -10,4 +10,5 @@ As a part of the Springboard data science curriculum, this project focuses in he
 
 (4) Risk_comparision
 
+Further, the 'Report.pdf' provides a non-technical summary of this project. 
 
