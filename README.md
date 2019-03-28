@@ -1,1 +1,1 @@
-# CAPSTONE_II
+# Risk Assessment and financial management of Lending club. 
