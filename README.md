@@ -6,7 +6,7 @@ As a part of the Springboard data science curriculum, this project focuses in he
 
 (2) Data Exploration, Gradient_boosting_Randomized Search, Predicting_returns
 
-(3) Gradient_boosting
+(3) Customer's classification
 
 (4) Risk_comparision
 
